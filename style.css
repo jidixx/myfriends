@@ -1,0 +1,9 @@
+p{
+    font-size: 30px;
+}
+img {
+    width: 300px;       /* ширина */
+    height: auto;       /* пропорциональная высота */
+    border-radius: 10px; /* скругляем углы */
+    margin: 20px 0;     /* отступ сверху и снизу */
+}
